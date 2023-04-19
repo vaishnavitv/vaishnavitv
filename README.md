@@ -1,4 +1,7 @@
-### Hi there 👋
+### 🙋‍♀️ Pleased to e-meet you 👋 
+___
+
+Chances are, I've either directed you here, or you've been spelunking through my website,  projects, and talks: in which case, welcome! Take a look around, read through my principles (listed below 👇), and let me know if you have any questions. Looking forward to working with you!
 
 <!--
 **vaishnavitv/vaishnavitv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
