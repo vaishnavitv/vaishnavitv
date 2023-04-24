@@ -1,7 +1,8 @@
 ### 🙋‍♀️ Pleased to e-meet you 👋 
 ___
 
-Chances are, I've either directed you here, or you've been spelunking through my website,  projects, and talks: in which case, welcome! Take a look around, read through my principles (listed below 👇), and let me know if you have any questions. Looking forward to working with you!
+Chances are, I've either directed you here, or you've been spelunking through my website,  projects, and talks: in which case, welcome! 
+ <br>Take a look around, read through my principles (listed below 👇), and let me know if you have any questions. Looking forward to working with you!
 
 
 ## Principles I believe in
@@ -9,6 +10,8 @@ Chances are, I've either directed you here, or you've been spelunking through my
 :writing_hand:	Power of documentation
 ---
 I believe in the power of documentation. If it is not documented it is not there. I love Swagger for API documentaion.
+
+
 HTTP Status : 406 Not Acceptable
 
 
