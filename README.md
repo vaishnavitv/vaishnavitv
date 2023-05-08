@@ -4,13 +4,19 @@ ___
 Chances are, I've either directed you here, or you've been spelunking through my website,  projects, and talks: in which case, welcome! 
  <br>Take a look around, read through my principles (listed below 👇), and let me know if you have any questions. Looking forward to working with you!
 
+## :man_technologist:	About Me
+
+Vaishnavi is a Software Engineering enthusiast with a passion for working collaboratively and promoting neurodiversity and accessibility. She firmly believes that by breaking down silos and encouraging open communication,teams can achieve great things together. She understands the importance of creating empathetic products and services that can be used by people of all abilities and is constantly seeking ways to incorporate this mindset into her work.
+
+I am passionate about how to improve ways of working and increase the speed of business by accelerating value delivery and through visual communication.
 
 ## Principles I believe in
 
 :writing_hand:	Power of documentation
 ---
-I believe in the power of documentation. If it is not documented it is not there. I love Swagger for API documentaion.
-
+I believe in the power of documentation. If it is not documented it is not there. 
+I love Swagger for API documentaion.
+#DocsOrItAintHappen
 
 HTTP Status : 406 Not Acceptable
 
