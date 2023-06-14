@@ -8,11 +8,13 @@ Chances are, I've either directed you here, or you've been spelunking through my
 
 ## :man_technologist:	About Me
 
-Vaishnavi is a Software Engineering enthusiast with a passion for working collaboratively and promoting neurodiversity and accessibility. She firmly believes that by breaking down silos and encouraging open communication,teams can achieve great things together. She understands the importance of creating empathetic products and services that can be used by people of all abilities and is constantly seeking ways to incorporate this mindset into her work.
+I am a Software Engineer with a passion for working collaboratively and promoting DEI, neurodiversity and accessibility. I firmly believe that by breaking down silos and encouraging open communication,teams can achieve great things together. I understand the importance of creating empathetic products and services that can be used by people of all abilities and  constantly seeking ways to incorporate this mindset into my work.
 
 I am passionate about how to improve ways of working and increase the speed of business by accelerating value delivery and through visual communication.
 
 ## Principles I believe in
+
+
 
 :writing_hand:	Power of documentation
 ---
