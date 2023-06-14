@@ -61,9 +61,9 @@ Pokemon Exception Handling. Also known as the Diaper Pattern (it catches all the
        // Do nothing
     }
 ```
-`Do or do not. There is no try.` 
+`Do or do not. There is no try.` #Yoda
 
 ![](https://github.com/vaishnavitv/vaishnavitv/blob/main/dino.gif)
 
 
-Template inspired from [Paige](https://github.com/dynamicwebpaige)
+### Template inspired from [Paige](https://github.com/dynamicwebpaige)
