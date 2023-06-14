@@ -47,6 +47,8 @@ HTTP Status : 406 Not Acceptable
 
 
 
+
+![](https://github.com/vaishnavitv/vaishnavitv/blob/main/dino.gif)
 <!--
 **vaishnavitv/vaishnavitv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
