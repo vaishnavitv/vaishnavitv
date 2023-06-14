@@ -24,7 +24,7 @@ I am currently an ambassador for Google Women TechMaker (WTM) program, Drawify a
 
 :herb: Insist on open communication and active listening so that every team member feels heard and understood without question.
 
-:telescope: Continuously educate myself and the team on the unique needs and strengths of neurodivergent individuals with unyielding determination.
+:loop: Continuously educate myself and the team on the unique needs and strengths of neurodivergent individuals with unyielding determination.
 
 :trophy: Foster a sense of community and support, both within your team and with the wider neurodivergent community, without any exceptions whatsoever with full conviction.
 
@@ -32,7 +32,7 @@ I am currently an ambassador for Google Women TechMaker (WTM) program, Drawify a
 
 :checkered_flag: Encourage experimentation and creativity that allows for varied perspectives and approaches to problem-solving, without any restrictions whatsoever.
 
-> :green_heart: Prompt engineering :heartbeat: by  [GrammarlyGO](https://www.grammarly.com/grammarlygo/)
+> :green_heart: Prompt engineering with :heartbeat: by [GrammarlyGO](https://www.grammarly.com/grammarlygo/)
 
 ## :writing_hand:	Power of documentation
 
