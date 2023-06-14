@@ -6,13 +6,15 @@ ___
 Chances are, I've either directed you here, or you've been spelunking through my website,  projects, and talks: in which case, welcome! 
  <br>Take a look around, read through my principles (listed below 👇), and let me know if you have any questions. Looking forward to working with you!
 
-## :man_technologist:	About Me
+## :woman_technologist:	About Me
 
 I am a Software Engineer with a passion for working collaboratively and a champion for DEI, neurodiversity and accessibility. I firmly believe that by breaking down silos and encouraging open communication, teams can achieve great things together. I understand the importance of creating empathetic products and services that can be used by people of all abilities and constantly seeking ways to incorporate this mindset into my work.
 
 I am passionate about how to improve ways of working and increase the speed of business by accelerating value delivery and through visual communication.
 
-## Principles I believe in
+I am currently an ambassador for Google Women TechMaker (WTM) program, Drawify and Grammarly. I use my voice to bring represenation in product and tech in all the platforms.
+
+## 🔭 Principles I believe in
 
 :revolving_hearts: Dedicate myself to creating software that is accessible and usable for individuals with a wide range of cognitive and neurological differences with utmost commitment.
 
@@ -32,14 +34,16 @@ I am passionate about how to improve ways of working and increase the speed of b
 
 > :green_heart: Prompt engineering :heartbeat: by  [GrammarlyGO](https://www.grammarly.com/grammarlygo/)
 
-:writing_hand:	Power of documentation
----
+## :writing_hand:	Power of documentation
+
 I believe in the power of documentation. If it is not documented it is not there. 
 I love Swagger for API documentaion.
 #DocsOrItAintHappen
 
 HTTP Status : 406 Not Acceptable
 
+## :loudspeaker: Technical Presentation Abstract Collection
+[Sessionize](https://sessionize.com/vaishnavi-subramaniam)
 
 
 
