@@ -30,6 +30,8 @@ I am passionate about how to improve ways of working and increase the speed of b
 
 :checkered_flag: Encourage experimentation and creativity that allows for varied perspectives and approaches to problem-solving, without any restrictions whatsoever.
 
+:green_heart: Prompt engineering :heartbeat: by GrammarlyGo
+
 :writing_hand:	Power of documentation
 ---
 I believe in the power of documentation. If it is not documented it is not there. 
