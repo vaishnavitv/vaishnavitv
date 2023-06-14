@@ -16,6 +16,8 @@ I am passionate about how to improve ways of working and increase the speed of b
 
 I am currently an ambassador for Google Women TechMaker (WTM) program, Drawify and Grammarly. I use my voice to bring represenation in product and tech in all the platforms.
 
+HTTP Status : 302 Found
+
 ## 🔭 Principles I believe in
 
 :revolving_hearts: Dedicate myself to creating software that is accessible and usable for individuals with a wide range of cognitive and neurological differences with utmost commitment.
@@ -34,6 +36,8 @@ I am currently an ambassador for Google Women TechMaker (WTM) program, Drawify a
 
 :checkered_flag: Encourage experimentation and creativity that allows for varied perspectives and approaches to problem-solving, without any restrictions whatsoever.
 
+HTTP Status : 200 OK
+
 > :green_heart: Prompt engineering with :heartbeat: by [GrammarlyGO](https://www.grammarly.com/grammarlygo/)
 
 ## :writing_hand:	Power of documentation
@@ -47,23 +51,19 @@ HTTP Status : 406 Not Acceptable
 ## :loudspeaker: Technical Presentation Abstract Collection
 [Sessionize](https://sessionize.com/vaishnavi-subramaniam)
 
-
-
+## :bento: Love spotting anti patterns and code smell
+Pokemon Exception Handling. Also known as the Diaper Pattern (it catches all the shit)
+```
+  try {
+       doSomething();
+    }
+    catch (Exception) {
+       // Do nothing
+    }
+```
+`Do or do not. There is no try.` 
 
 ![](https://github.com/vaishnavitv/vaishnavitv/blob/main/dino.gif)
-<!--
-**vaishnavitv/vaishnavitv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
----
 Template inspired from [Paige](https://github.com/dynamicwebpaige)
