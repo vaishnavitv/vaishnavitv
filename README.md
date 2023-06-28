@@ -46,10 +46,14 @@ I believe in the power of documentation. If it is not documented it is not there
 I love Swagger for API documentaion.
 #DocsOrItAintHappen
 
-HTTP Status : 406 Not Acceptable
+HTTP Status : 204 No Content
 
 ## :loudspeaker: Technical Presentation Abstract Collection
 [Sessionize](https://sessionize.com/vaishnavi-subramaniam)
+[Publications](https://github.com/vaishnavitv/Assets-and-Publications)
+
+HTTP Status : 402 Payment Required (Experimental)
+
 
 ## :bento: Love spotting anti patterns and code smell
 Pokemon Exception Handling. Also known as the Diaper Pattern (it catches all the shit)
@@ -61,7 +65,7 @@ Pokemon Exception Handling. Also known as the Diaper Pattern (it catches all the
        // Do nothing
     }
 ```
-`Do or do not. There is no try.` #Yoda
+`Do or do not. There is no try.`     #Yoda
 
 ![](https://github.com/vaishnavitv/vaishnavitv/blob/main/dino.gif)
 
