@@ -50,10 +50,15 @@ HTTP Status : 204 No Content
 
 ## :loudspeaker: Technical Presentation Abstract Collection
 [Sessionize](https://sessionize.com/vaishnavi-subramaniam)
+
 [Publications](https://github.com/vaishnavitv/Assets-and-Publications)
 
 HTTP Status : 402 Payment Required (Experimental)
 
+## :martial_arts_uniform: Favourite Quotes
+
+“You’re braver than you believe, stronger than you seem and smarter than you think.”
+—Christopher Robin
 
 ## :bento: Love spotting anti patterns and code smell
 Pokemon Exception Handling. Also known as the Diaper Pattern (it catches all the shit)
