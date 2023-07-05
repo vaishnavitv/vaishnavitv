@@ -43,7 +43,11 @@ HTTP Status : 200 OK
 ## :writing_hand:	Power of documentation
 
 I believe in the power of documentation. If it is not documented it is not there. 
-I love Swagger for API documentaion. Documentation lessens headaches and saves vacations.
+I love Swagger for API documentaion. 
+Documentation lessens headaches and saves vacations. 
+
+Create checklists, initiate review processes, and set up version control. These tools aren't chains; they help your documentation speak with one voice, one tone, and one style. Source : [Proper-Documentation](https://vadimkravcenko.com/shorts/proper-documentation/)
+
 #DocsOrItAintHappen
 
 HTTP Status : 204 No Content
