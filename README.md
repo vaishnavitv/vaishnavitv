@@ -14,7 +14,7 @@ I am a Software Engineer with a passion for working collaboratively and a champi
 
 I am passionate about how to improve ways of working and increase the speed of business by accelerating value delivery and through visual communication.
 
-I am currently an ambassador for Google Women TechMaker (WTM) program, Drawify and Grammarly. I use my voice to bring represenation in product and tech in all the platforms.
+I am currently an ambassador for Google Women TechMaker (WTM) program, Drawify and Grammarly. I use my voice to bring represenation in Product, User Experience and Tech in all these platforms.
 
 HTTP Status : 302 Found
 
@@ -38,11 +38,9 @@ HTTP Status : 302 Found
 
 HTTP Status : 200 OK
 
-> :green_heart: Prompt engineering with :heartbeat: by [GrammarlyGO](https://www.grammarly.com/grammarlygo/)
-
 ## :writing_hand:	Power of documentation
 
-I believe in the power of documentation. If it is not documented it is not there. 
+I believe in the power of documentation. Document or it aint happen. 
 I love Swagger for API documentaion. 
 Documentation lessens headaches and saves vacations. 
 
