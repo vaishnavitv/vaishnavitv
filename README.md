@@ -12,6 +12,8 @@ Chances are, I've either directed you here, or you've been spelunking through my
 ```
 I am a Software Engineer with a passion for working collaboratively and a champion for DEI, neurodiversity and accessibility. I firmly believe that by breaking down silos and encouraging open communication, teams can achieve great things together. I understand the importance of creating empathetic products and services that can be used by people of all abilities and constantly seeking ways to incorporate this mindset into my work.
 
+I have saved withering codebases and my passion lies in developing robust systems, enabling easy maintenance of codebases, eliminating code smells and anti patterns and love refactoring.
+
 I am passionate about how to improve ways of working and increase the speed of business by accelerating value delivery and through visual communication.
 
 I am currently an ambassador for Google Women TechMaker (WTM) program, Drawify and Grammarly. I use my voice to bring represenation in Product, User Experience and Tech in all these platforms.
