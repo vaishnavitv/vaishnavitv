@@ -65,7 +65,7 @@ HTTP Status : 402 Payment Required (Experimental)
 —Christopher Robin
 
 ## :bento: Love spotting anti patterns and code smell
-Pokemon Exception Handling. Also known as the Diaper Pattern (it catches all the shit)
+Pokemon Exception Handling. Also known as the Diaper Pattern (it catches all the :poop:)
 ```
   try {
        doSomething();
