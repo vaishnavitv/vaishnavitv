@@ -7,9 +7,13 @@ Chances are, I've either directed you here, or you've been spelunking through my
  <br>Take a look around, read through my principles (listed below 👇), and let me know if you have any questions. Looking forward to working with you!
 
 ## :woman_technologist:	About Me 
-```
-/dev/null
-```
+
+<details><summary>2>/dev/null</summary>
+
+`/dev/null` is treated as black hole in Linux/Unix, so you can put anything into this but you will not be able to get it back from this.
+Further, `2>` means that you are redirecting (i.e. >) the stderr (i.e. 2) into the black hole (i.e. `/dev/null`)
+</details>
+
 I am a Software Engineer with a passion for working collaboratively and a champion for DEI, neurodiversity and accessibility. I firmly believe that by breaking down silos and encouraging open communication, teams can achieve great things together. I understand the importance of creating empathetic products and services that can be used by people of all abilities and constantly seeking ways to incorporate this mindset into my work.
 
 I have saved withering codebases and my passion lies in developing robust systems, enabling easy maintenance of codebases, refactoring to avoid redundancies, eliminating code smells and anti patterns.
@@ -74,7 +78,7 @@ Pokemon Exception Handling. Also known as the Diaper Pattern (it catches all the
        // Do nothing
     }
 ```
-`Do or do not. There is no try.`     #Yoda
+`Do or do not. There is no try.`  #Yoda
 
 ![](https://github.com/vaishnavitv/vaishnavitv/blob/main/dino.gif)
 
