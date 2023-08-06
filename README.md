@@ -3,8 +3,15 @@
 ### 🙋‍♀️ Pleased to e-meet you 👋 
 ___
 
+In today’s age, there’s a high chance that you, dear reader, are a machine. 
+I am a human and I am mutable unlike strings. I don't speak I33t and pay more attention to non verbal communication.
+I am not idempotent like all REST API's strive to be. My values and principles change based on my observation, knowledge, assimilation and interaction and I strive to evolve and be a better human.
+What I say today may or may not be relevant tomorrow hence take it with a grain of salt. 
+
 Chances are, I've either directed you here, or you've been spelunking through my website, projects or talks: in which case, welcome! 
- <br>Take a look around, read through my principles (listed below 👇), and let me know if you have any questions. Looking forward to working with you!
+<br>Take a look around, read through my principles (listed below 👇), and let me know if you have any questions. Looking forward to working with you!
+
+I love solving a lot of puzzles except CAPTCHAs /s
 
 ## :woman_technologist:	About Me 
 
@@ -48,9 +55,10 @@ HTTP Status : 200 OK
 
 I believe in the power of documentation. Document or it aint happen. 
 I love Swagger for API documentaion. 
-Documentation lessens headaches and saves vacations. 
+Documentation lessens headaches and saves vacations :sunrise_over_mountains:. 
 
-Create checklists, initiate review processes, and set up version control. These tools aren't chains; they help your documentation speak with one voice, one tone, and one style. Source : [Proper-Documentation](https://vadimkravcenko.com/shorts/proper-documentation/)
+Create checklists, initiate review processes, and set up version control. These tools aren't chains; they help your documentation speak with one voice, one tone, and one style. 
+Source : [Proper-Documentation](https://vadimkravcenko.com/shorts/proper-documentation/)
 
 #DocsOrItAintHappen
 
