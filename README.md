@@ -3,7 +3,7 @@
 ### 🙋‍♀️ Pleased to e-meet you 👋 
 ___
 
-Chances are, I've either directed you here, or you've been spelunking through my website,  projects, and talks: in which case, welcome! 
+Chances are, I've either directed you here, or you've been spelunking through my website, projects or talks: in which case, welcome! 
  <br>Take a look around, read through my principles (listed below 👇), and let me know if you have any questions. Looking forward to working with you!
 
 ## :woman_technologist:	About Me 
@@ -12,7 +12,7 @@ Chances are, I've either directed you here, or you've been spelunking through my
 ```
 I am a Software Engineer with a passion for working collaboratively and a champion for DEI, neurodiversity and accessibility. I firmly believe that by breaking down silos and encouraging open communication, teams can achieve great things together. I understand the importance of creating empathetic products and services that can be used by people of all abilities and constantly seeking ways to incorporate this mindset into my work.
 
-I have saved withering codebases and my passion lies in developing robust systems, enabling easy maintenance of codebases, eliminating code smells and anti patterns and love refactoring.
+I have saved withering codebases and my passion lies in developing robust systems, enabling easy maintenance of codebases, refactoring to avoid redundancies, eliminating code smells and anti patterns.
 
 I am passionate about how to improve ways of working and increase the speed of business by accelerating value delivery and through visual communication.
 
