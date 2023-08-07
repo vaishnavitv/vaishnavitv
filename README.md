@@ -5,11 +5,11 @@ ___
 
 In today’s age, there’s a high chance that you, dear reader, are a machine. 
 <br>I am a human and I am mutable unlike strings. I don't speak I33t and pay more attention to non verbal communication.
-<br>I am not idempotent like all REST API's strive to be. My values and principles change based on my observation, knowledge, assimilation and interaction and I strive to evolve and be a better human.
+<br>I am not idempotent like all REST API's strive to be. My values and principles change based on my observation, knowledge, assimilation and interaction, and I believe people influence each other by osmosis.
 <br>What I say today may or may not be relevant tomorrow hence take it with a grain of salt. 
 
 Chances are, I've either directed you here, or you've been spelunking through my website, projects or talks: in which case, welcome! 
-<br>Take a look around, read through my principles (listed below 👇), and let me know if you have any questions. Looking forward to working with you!
+<br>Take a look around, read through my principles (listed below 👇), and let me know if you have any questions. Looking forward to working and collaborating with you!
 
 I love solving a lot of puzzles except CAPTCHAs /s :interrobang:	
 
