@@ -11,8 +11,6 @@ In today’s age, there’s a high chance that you, dear reader, are a machine.
 Chances are, I've either directed you here, or you've been spelunking through my website, projects or talks: in which case, welcome! 
 <br>Take a look around, read through my principles (listed below 👇), and let me know if you have any questions. Looking forward to working and collaborating with you!
 
-I love solving a lot of puzzles except CAPTCHAs /s :interrobang:	
-
 ## :woman_technologist:	About Me 
 
 <details><summary>2>/dev/null</summary>
@@ -89,5 +87,6 @@ Pokemon Exception Handling. Also known as the Diaper Pattern (it catches all the
 
 ![](https://github.com/vaishnavitv/vaishnavitv/blob/main/dino.gif)
 
+P.S. I love solving a lot of puzzles except CAPTCHAs /s :interrobang:	
 
-### Template inspired from [Paige](https://github.com/dynamicwebpaige)
+Credits : Template inspired from [Paige](https://github.com/dynamicwebpaige)
