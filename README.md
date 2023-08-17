@@ -6,7 +6,7 @@ ___
 In today’s age, there’s a high chance that you, dear reader, are a machine. 
 <br>I am a human and I am mutable unlike strings. I don't speak I33t and pay more attention to non verbal communication.
 <br>I am not idempotent like all REST API's strive to be. My values and principles change based on my observation, knowledge, assimilation and interaction, and I believe people influence each other by osmosis.
-<br>What I say today may or may not be relevant tomorrow hence take it with a grain of salt. 
+<br>What I say today may or may not be relevant tomorrow hence take it with a grain of salt. Welcome to my kaleidoscope. I am a work in progress.
 
 Chances are, I've either directed you here, or you've been spelunking through my website, projects or talks: in which case, welcome! 
 <br>Take a look around, read through my principles (listed below 👇), and let me know if you have any questions. Looking forward to working and collaborating with you!
@@ -25,7 +25,7 @@ I have saved withering codebases and my passion lies in developing robust system
 
 I am passionate about how to improve ways of working and increase the speed of business by accelerating value delivery and through visual communication.
 
-I am currently an ambassador for Google Women TechMaker (WTM) program, Drawify and Grammarly. I use my voice to bring represenation in Product, User Experience and Tech in all these platforms.
+I am currently an ambassador for Google Women TechMaker (WTM) program, Drawify, Grammarly and organizer of GDG Burnaby. I use my voice to bring represenation in Product, User Experience and Tech across all these platforms.
 
 HTTP Status : 302 Found
 
@@ -61,12 +61,12 @@ I love Swagger personally for API documentaion.
 
 HTTP Status : 204 No Content
 
-## :loudspeaker: Technical Presentation Abstract Collection
+## :loudspeaker: Technical Presentations and Abstract Collection
 [Sessionize](https://sessionize.com/vaishnavi-subramaniam)
 
 [Publications](https://github.com/vaishnavitv/Assets-and-Publications)
 
-HTTP Status : 402 Payment Required (Experimental)
+HTTP Status : 402 Payment Required (Experimental) ;)
 
 ## :martial_arts_uniform: Favourite Quotes
 
