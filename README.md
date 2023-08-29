@@ -59,6 +59,8 @@ Source : [Proper-Documentation](https://vadimkravcenko.com/shorts/proper-documen
 I love Swagger personally for API documentaion. 
 #DocsOrItAintHappen
 
+I have recently started making my README as a BRAG document after reading about [Qualified Quiet](https://www.linkedin.com/pulse/you-member-qualified-quiet-tim-pence/)
+
 HTTP Status : 204 No Content
 
 ## :loudspeaker: Technical Presentations and Abstract Collection
