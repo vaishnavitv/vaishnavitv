@@ -25,7 +25,7 @@ I have saved withering codebases and my passion lies in developing robust system
 
 I am passionate about how to improve ways of working and increase the speed of business by accelerating value delivery and through visual communication.
 
-I am currently an ambassador for [Google Women TechMaker (WTM) program](https://wtm.advocu.com/home/ambassadors/6373c8a7108c6b079a57f6de?communityslug=wtm), Drawify, Grammarly and Organizer of [GDG Burnaby](https://gdg.community.dev/gdg-burnaby/). I use my voice to bring represenation in Product, User Experience and Tech across all these platforms.
+I am currently an ambassador for [Google Women TechMaker (WTM) program](https://wtm.advocu.com/home/ambassadors/6373c8a7108c6b079a57f6de?communityslug=wtm), Drawify, Grammarly and Organizer of [GDG Burnaby](https://gdg.community.dev/gdg-burnaby/). I use my voice to bring represenation in Product, User Experience, Neurodiversity and Tech across all these platforms.
 
 HTTP Status : 302 Found
 
