@@ -90,6 +90,9 @@ Pokemon Exception Handling. Also known as the Diaper Pattern (it catches all the
 
 ![](https://github.com/vaishnavitv/vaishnavitv/blob/main/dino.gif)
 
+If you have made it this far, thank you. Book a discovery call and explore options on how I can be of help to you. You won't be disappointed, trust me. 
+[Book a session](https://topmate.io/vaishnavi_venkata_subramanian)
+
 P.S. I love solving a lot of puzzles except CAPTCHAs /s :interrobang:	
 
 Credits : Template inspired from [Paige](https://github.com/dynamicwebpaige)
