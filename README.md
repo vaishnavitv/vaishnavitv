@@ -4,24 +4,24 @@
 ___
 
 In today’s age, there’s a high chance that you, dear reader, are a machine. 
-<br>I am a human and I am mutable unlike strings. I don't speak I33t and pay more attention to non verbal communication.
+<br>I am a human, and I am mutable, unlike strings. I don't speak I33t and pay more attention to nonverbal communication.
 <br>I am not idempotent like all REST API's strive to be. My values and principles change based on my observation, knowledge, assimilation and interaction, and I believe people influence each other by osmosis.
-<br>What I say today may or may not be relevant tomorrow hence take it with a grain of salt. Welcome to my kaleidoscope a.k.a my BRAG document. I am a work in progress.
+<br>What I say today may or may not be relevant tomorrow; hence, take it with a grain of salt. Welcome to my kaleidoscope, a.k.a. My BRAG document. I am a work in progress.
 
-Chances are, I've either directed you here, or you've been spelunking through my website, projects or talks: in which case, welcome! 
+Chances are, I've either directed you here, or you've been spelunking through my website, projects or talks, in which case, welcome! 
 <br>Take a look around, read through my principles (listed below 👇), and let me know if you have any questions. Looking forward to working and collaborating with you!
 
 ## :woman_technologist:	About Me 
 
 <details><summary>2>/dev/null</summary>
 
-`/dev/null` is treated as black hole in Linux/Unix, so you can put anything into this but you will not be able to get it back from this.
+`/dev/null` is treated as a black hole in Linux/Unix, so you can put anything into this but you will not be able to get it back from this.
 Further, `2>` means that you are redirecting (i.e. >) the stderr (i.e. 2) into the black hole (i.e. `/dev/null`)
 </details>
 
 I am a Software Engineer with a passion for working collaboratively and a champion for DEI, neurodiversity and accessibility. I firmly believe that by breaking down silos and encouraging open communication, teams can achieve great things together. I understand the importance of creating empathetic products and services that can be used by people of all abilities and constantly seeking ways to incorporate this mindset into my work.
 
-I have saved withering codebases and my passion lies in developing robust systems, enabling easy maintenance of codebases, refactoring to avoid redundancies, eliminating code smells and anti patterns.
+I have saved withering codebases, and my passion lies in developing robust systems, enabling easy maintenance of codebases, refactoring to avoid redundancies, eliminating code smells and anti patterns.
 
 I am passionate about how to improve ways of working and increase the speed of business by accelerating value delivery and through visual communication.
 
@@ -46,9 +46,9 @@ HTTP Status : 302 Found
 
 :rotating_light: Take a stand for, and implement universal design principles in all software development without compromise with full confidence.
 
-:checkered_flag: Encourage experimentation and creativity that allows for varied perspectives and approaches to problem-solving, without any restrictions whatsoever.
+:checkered_flag: Encourage experimentation and creativity that allows for varied perspectives and approaches to problem-solving without any restrictions whatsoever.
 
-HTTP Status : 200 OK
+HTTP Status: 200 OK
 
 ## :writing_hand:	Power of documentation
 
@@ -57,7 +57,7 @@ I believe in the power of documentation. Document or it aint happen.
 
 Create checklists, initiate review processes, and set up version control. These tools aren't chains; they help your documentation speak with one voice, one tone, and one style. 
 Source : [Proper-Documentation](https://vadimkravcenko.com/shorts/proper-documentation/)
-I love Swagger personally for API documentaion. 
+I love Swagger personally for API documentation. 
 #DocsOrItAintHappen
 
 I have recently started making my README as a BRAG document after reading about [Qualified Quiet](https://www.linkedin.com/pulse/you-member-qualified-quiet-tim-pence/)
@@ -76,7 +76,7 @@ HTTP Status : 402 Payment Required (Experimental) ;)
 “You’re braver than you believe, stronger than you seem and smarter than you think.”
 —Christopher Robin
 
-## :bento: Love spotting anti patterns and code smell
+## :bento: Love spotting anti-patterns and code smell
 Pokemon Exception Handling. Also known as the Diaper Pattern (it catches all the :poop:)
 ```
   try {
@@ -90,9 +90,10 @@ Pokemon Exception Handling. Also known as the Diaper Pattern (it catches all the
 
 ![](https://github.com/vaishnavitv/vaishnavitv/blob/main/dino.gif)
 
-If you have made it this far, thank you. Book a discovery call and explore options on how I can be of help to you. You won't be disappointed, trust me. 
+If you have made it this far, thank you. Book a discovery call and explore possibilities on how I can help you. You won't be disappointed, trust me. 
+
 [Book a session](https://topmate.io/vaishnavi_venkata_subramanian)
 
 P.S. I love solving a lot of puzzles except CAPTCHAs /s :interrobang:	
 
-Credits : Template inspired from [Paige](https://github.com/dynamicwebpaige)
+Credits: Template inspired by [Paige](https://github.com/dynamicwebpaige)
