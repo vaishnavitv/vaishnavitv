@@ -15,20 +15,22 @@ Chances are, I've either directed you here, or you've been spelunking through my
 
 <details><summary>2>/dev/null</summary>
 
-`/dev/null` is treated as a black hole in Linux/Unix, so you can put anything into this but you will not be able to get it back from this.
+`/dev/null` is treated as a black hole in Linux/Unix so you can put anything into this, but you will not be able to get it back.
 Further, `2>` means that you are redirecting (i.e. >) the stderr (i.e. 2) into the black hole (i.e. `/dev/null`)
 </details>
 
-I am a Software Engineer with a passion for working collaboratively and a champion for DEI, neurodiversity and accessibility. I firmly believe that by breaking down silos and encouraging open communication, teams can achieve great things together. I understand the importance of creating empathetic products and services that can be used by people of all abilities and constantly seeking ways to incorporate this mindset into my work.
+About me in the third person (for ease of copy and paste in other forums 😏 )
 
-I have saved withering codebases, and my passion lies in developing robust systems, enabling easy maintenance of codebases, refactoring to avoid redundancies, eliminating code smells and anti patterns.
+Vaishnavi is a Software Engineer passionate about working collaboratively and a champion for DEI, neurodiversity and accessibility. She firmly believes that by breaking down silos and encouraging open communication, teams can achieve great things together. She understands the importance of creating empathetic products and services that can be used by people of all abilities and is constantly seeking ways to incorporate this mindset into her work.
 
-I am passionate about how to improve ways of working and increase the speed of business by accelerating value delivery and through visual communication.
+She has saved withering codebases and refactored chunks of code to make it readable. Her passion lies in developing robust systems, enabling easy maintenance of codebases, refactoring to avoid redundancies, and eliminating code smells and anti-patterns.
 
-I am currently an ambassador for [Google Women TechMaker (WTM) program](https://wtm.advocu.com/home/ambassadors/6373c8a7108c6b079a57f6de?communityslug=wtm), Drawify, Grammarly and Organizer of [GDG Burnaby](https://gdg.community.dev/gdg-burnaby/). 
-I use my voice to bring represenation in Product, User Experience, Neurodiversity and Tech across all these platforms.
+She is passionate about improving ways of working and increasing business speed by accelerating value delivery and visual communication.
 
-HTTP Status : 302 Found
+She is currently an ambassador for [Google Women TechMaker (WTM) program](https://wtm.advocu.com/home/ambassadors/6373c8a7108c6b079a57f6de?communityslug=wtm), Drawify, Grammarly and Organizer of [GDG Burnaby](https://gdg.community.dev/gdg-burnaby/). 
+She uses her voice to bring representation in Product, User Experience, Neurodiversity and Tech across all these platforms.
+
+HTTP Status: 302 Found
 
 ## 🔭 Principles I believe in
 
