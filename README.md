@@ -4,31 +4,31 @@
 ___
 
 In today’s age, there’s a high chance that you, dear reader, are a machine. 
-<br>I am a human, and I am mutable, unlike strings. I don't speak I33t and pay more attention to nonverbal communication.
+<br>I am a human and mutable, unlike strings. I don't speak I33t and pay more attention to nonverbal communication.
 <br>I am not idempotent like all REST API's strive to be. My values and principles change based on my observation, knowledge, assimilation and interaction, and I believe people influence each other by osmosis.
 <br>What I say today may or may not be relevant tomorrow; hence, take it with a grain of salt. Welcome to my kaleidoscope, a.k.a. My BRAG document. I am a work in progress.
 
 Chances are, I've either directed you here, or you've been spelunking through my website, projects or talks, in which case, welcome! 
-<br>Take a look around, read through my principles (listed below 👇), and let me know if you have any questions. Looking forward to working and collaborating with you!
+<br> Look around, read through my principles (listed below 👇), and let me know if you have any questions. I am looking forward to working and collaborating with you!
 
 ## :woman_technologist:	About Me 
 
 <details><summary>2>/dev/null</summary>
 
-`/dev/null` is treated as a black hole in Linux/Unix so you can put anything into this, but you will not be able to get it back.
+`/dev/null` is treated as a black hole in Linux/Unix, so you can put anything into this, but you will not get it back.
 Further, `2>` means that you are redirecting (i.e. >) the stderr (i.e. 2) into the black hole (i.e. `/dev/null`)
 </details>
 
 About me in the third person (for ease of copy and paste in other forums 😏 )
 
 Vaishnavi is a Software Engineer passionate about working collaboratively and a champion for DEI, neurodiversity and accessibility. She firmly believes that by breaking down silos and encouraging open communication, teams can achieve great things together. She understands the importance of creating empathetic products and services that can be used by people of all abilities and is constantly seeking ways to incorporate this mindset into her work.
-
+<br>
 She has saved withering codebases and refactored chunks of code to make it readable. Her passion lies in developing robust systems, enabling easy maintenance of codebases, refactoring to avoid redundancies, and eliminating code smells and anti-patterns.
-
+<br>
 She is passionate about improving ways of working and increasing business speed by accelerating value delivery and visual communication.
-
+<br>
 She is currently an ambassador for [Google Women TechMaker (WTM) program](https://wtm.advocu.com/home/ambassadors/6373c8a7108c6b079a57f6de?communityslug=wtm), Drawify, Grammarly and Organizer of [GDG Burnaby](https://gdg.community.dev/gdg-burnaby/). 
-She uses her voice to bring representation in Product, User Experience, Neurodiversity and Tech across all these platforms.
+She uses her voice as a women to bring representation in Product, User Experience, Neurodiversity and Tech across all these platforms.
 
 HTTP Status: 302 Found
 
@@ -36,7 +36,7 @@ HTTP Status: 302 Found
 
 :revolving_hearts: Dedicate myself to creating software that is accessible and usable for individuals with a wide range of cognitive and neurological differences with utmost commitment.
 
-:muscle: Make it a top priority to use clear and concise language in all communication, both written and verbal, without any exceptions whatsoever.
+:muscle: Make it a top priority to use clear and concise language in all written and verbal communication without any exceptions whatsoever.
 
 :star: Cultivate an environment of inclusivity and acceptance that leaves no one feeling undervalued or disrespected under any circumstances.
 
@@ -44,9 +44,9 @@ HTTP Status: 302 Found
 
 :loop: Continuously educate myself and the team on the unique needs and strengths of neurodivergent individuals with unyielding determination.
 
-:trophy: Foster a sense of community and support, both within your team and with the wider neurodivergent community, without any exceptions whatsoever with full conviction.
+:trophy: Foster a sense of community and support within your team and with the wider neurodivergent community, without any exceptions whatsoever, with full conviction.
 
-:rotating_light: Take a stand for, and implement universal design principles in all software development without compromise with full confidence.
+:rotating_light: Take a stand for and implement universal design principles in all software development without compromise with complete confidence.
 
 :checkered_flag: Encourage experimentation and creativity that allows for varied perspectives and approaches to problem-solving without any restrictions whatsoever.
 
