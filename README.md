@@ -15,7 +15,7 @@ Chances are, I've either directed you here, or you've been spelunking through my
 
 <details><summary>2>/dev/null</summary>
 
-`/dev/null` is treated as a black hole in Linux/Unix, so you can put anything into this, but you will not get it back.
+`/dev/null` is treated as a black hole in Linux/Unix, so you can put anything into this but not get it back.
 Further, `2>` means that you are redirecting (i.e. >) the stderr (i.e. 2) into the black hole (i.e. `/dev/null`)
 </details>
 
