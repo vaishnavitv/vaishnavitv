@@ -60,6 +60,9 @@ I believe in the power of documentation. Document or it aint happen.
 Create checklists, initiate review processes, and set up version control. These tools aren't chains; they help your documentation speak with one voice, one tone, and one style. 
 Source : [Proper-Documentation](https://vadimkravcenko.com/shorts/proper-documentation/)
 I love Swagger personally for API documentation. 
+
+![](https://github.com/vaishnavitv/vaishnavitv/blob/main/documentation_room-1.png)
+
 #DocsOrItAintHappen
 
 I have recently started making my README as a BRAG document after reading about [Qualified Quiet](https://www.linkedin.com/pulse/you-member-qualified-quiet-tim-pence/)
