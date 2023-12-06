@@ -5,7 +5,7 @@ ___
 
 In today’s age, there’s a high chance that you, dear reader, are a machine. 
 <br>I am a human and mutable, unlike strings. I don't speak I33t and pay more attention to nonverbal communication.
-<br>I am not idempotent like all REST API's strive to be. My values and principles change based on my observation, knowledge, assimilation and interaction, and I believe people influence each other by osmosis.
+<br>I am not idempotent like all REST APIs strive to be. My values and principles change based on my observation, knowledge, assimilation and interaction, and I believe people influence each other by osmosis.
 <br>What I say today may or may not be relevant tomorrow; hence, take it with a grain of salt. Welcome to my kaleidoscope, a.k.a. My BRAG document. I am a work in progress.
 
 Chances are, I've either directed you here, or you've been spelunking through my website, projects or talks, in which case, welcome! 
@@ -25,10 +25,10 @@ Vaishnavi is a Software Engineer passionate about working collaboratively and a 
 <br>
 She has saved withering codebases and refactored chunks of code to make it readable. Her passion lies in developing robust systems, enabling easy maintenance of codebases, refactoring to avoid redundancies, and eliminating code smells and anti-patterns.
 <br>
-She is passionate about improving ways of working and increasing business speed by accelerating value delivery and visual communication.
+She is passionate about improving working methods and increasing business speed by accelerating value delivery and visual communication.
 <br>
 She is currently an ambassador for [Google Women TechMaker (WTM) program](https://wtm.advocu.com/home/ambassadors/6373c8a7108c6b079a57f6de?communityslug=wtm), Drawify, Grammarly and Organizer of [GDG Burnaby](https://gdg.community.dev/gdg-burnaby/). 
-She uses her voice as a women to bring representation in Product, User Experience, Neurodiversity and Tech across all these platforms.
+She uses her voice as a woman to bring representation in Product, User Experience, Neurodiversity and Tech across all these platforms.
 
 HTTP Status: 302 Found
 
