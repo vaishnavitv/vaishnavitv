@@ -27,8 +27,10 @@ She has saved withering codebases and refactored chunks of code to make it reada
 <br>
 She is passionate about improving working methods and increasing business speed by accelerating value delivery and visual communication.
 <br>
-She is currently an ambassador for [Google Women TechMaker (WTM) program](https://wtm.advocu.com/home/ambassadors/6373c8a7108c6b079a57f6de?communityslug=wtm), Drawify, Grammarly and Organizer of [GDG Burnaby](https://gdg.community.dev/gdg-burnaby/). 
+She is currently an ambassador for [Google WomenTechMaker(WTM) program](https://wtm.advocu.com/home/ambassadors/6373c8a7108c6b079a57f6de?communityslug=wtm), Drawify, Grammarly and Organizer of [GDG Burnaby](https://gdg.community.dev/gdg-burnaby/). 
 She uses her voice as a woman to bring representation in Product, User Experience, Neurodiversity and Tech across all these platforms.
+
+She uses her voice to talk about Parenthood, DEI, visual communication, overcoming burnout and imposter syndrome, strategic mentorship and Technology. She has spoken extensively in panels and conferences about topics and how to manage a career and parenthood and be a trailblazer.
 
 HTTP Status: 302 Found
 
