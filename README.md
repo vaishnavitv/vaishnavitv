@@ -19,7 +19,8 @@ Chances are, I've either directed you here, or you've been spelunking through my
 Further, `2>` means that you are redirecting (i.e. >) the stderr (i.e. 2) into the black hole (i.e. `/dev/null`)
 </details>
 
-About me in the third person (for ease of copy and paste in other forums 😏 )
+About me (in the third person) : 
+Passionate storyteller | Connector | Community Builder
 
 Vaishnavi is a Software Engineer passionate about working collaboratively and a champion for DEI, neurodiversity and accessibility. She firmly believes that by breaking down silos and encouraging open communication, teams can achieve great things together. She understands the importance of creating empathetic products and services that can be used by people of all abilities and is constantly seeking ways to incorporate this mindset into her work.
 <br>
@@ -31,6 +32,10 @@ She is currently an ambassador for [Google WomenTechMaker(WTM) program](https://
 She uses her voice as a woman to bring representation in Product, User Experience, Neurodiversity and Tech across all these platforms.
 
 She uses her voice to talk about Parenthood, DEI, visual communication, overcoming burnout and imposter syndrome, strategic mentorship and Technology. She has spoken extensively in panels and conferences about topics and how to manage a career and parenthood and be a trailblazer.
+
+Hert goal is to play a part in the betterment of women’s careers and financial future is what drives her - putting more money into women’s pockets.
+
+She wants to leave her mark in this world by being instrumental in advancing and uplifting women of color. 
 
 HTTP Status: 302 Found
 
