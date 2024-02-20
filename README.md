@@ -33,7 +33,7 @@ She uses her voice as a woman to bring representation in Product, User Experienc
 
 She uses her voice to talk about Parenthood, DEI, visual communication, overcoming burnout and imposter syndrome, strategic mentorship and Technology. She has spoken extensively in panels and conferences about topics and how to manage a career and parenthood and be a trailblazer.
 
-Hert goal is to play a part in the betterment of women’s careers and financial future is what drives her - putting more money into women’s pockets.
+Her goal is to play a part in the betterment of women’s careers and financial future is what drives her - putting more money into women’s pockets.
 
 She wants to leave her mark in this world by being instrumental in advancing and uplifting women of color. 
 
