@@ -33,9 +33,9 @@ She uses her voice as a woman to bring representation in Product, User Experienc
 
 She uses her voice to talk about Parenthood, DEI, visual communication, overcoming burnout and imposter syndrome, strategic mentorship and Technology. She has spoken extensively in panels and conferences about topics and how to manage a career and parenthood and be a trailblazer.
 
-Her goal is to play a part in the betterment of women’s careers and financial future is what drives her - putting more money into women’s pockets.
+Her goal is to play a part in the betterment of women’s careers, and the financial future is what drives her - putting more money into women’s pockets.
 
-She wants to leave her mark in this world by being instrumental in advancing and uplifting women of color. 
+She wants to leave her mark in this world by being instrumental in advancing and uplifting women of colour. 
 
 HTTP Status: 302 Found
 
@@ -45,7 +45,7 @@ HTTP Status: 302 Found
 
 :muscle: Make it a top priority to use clear and concise language in all written and verbal communication without any exceptions whatsoever.
 
-:star: Cultivate an environment of inclusivity and acceptance that leaves no one feeling undervalued or disrespected under any circumstances.
+:star: Cultivate an environment of inclusivity and acceptance that leaves no one feeling undervalued or disrespected.
 
 :herb: Insist on open communication and active listening so that every team member feels heard and understood without question.
 
