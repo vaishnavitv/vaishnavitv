@@ -1,4 +1,4 @@
-![](https://github.com/vaishnavitv/vaishnavitv/blob/main/GitHub-Banner.png)
+![](Images/GitHub-Banner.png)
 
 ### 🙋‍♀️ Pleased to e-meet you 👋 
 ___
@@ -68,7 +68,7 @@ Create checklists, initiate review processes, and set up version control. These 
 Source : [Proper-Documentation](https://vadimkravcenko.com/shorts/proper-documentation/)
 <br>I love Swagger personally for API documentation. 
 
-![](https://github.com/vaishnavitv/vaishnavitv/blob/main/documentation_room-1.png)
+![](Images/documentation_room-1.png)
 
 #DocsOrItAintHappen
 
