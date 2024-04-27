@@ -22,7 +22,7 @@ Further, `2>` means that you are redirecting (i.e. >) the stderr (i.e. 2) into t
 About me (in the third person) : 
 Passionate storyteller | Connector | Community Builder
 
-Vaishnavi is a Software Engineer passionate about working collaboratively and a champion for DEI, neurodiversity and accessibility. She firmly believes that by breaking down silos and encouraging open communication, teams can achieve great things together. She understands the importance of creating empathetic products and services that can be used by people of all abilities and is constantly seeking ways to incorporate this mindset into her work.
+Vaishnavi is not just a code wrangler but a creative problem solver, a software engineer passionate about working collaboratively and a champion for DEI, neurodiversity, and accessibility. She firmly believes that by breaking down silos and encouraging open communication, teams can achieve great things together. She understands the importance of creating empathetic products and services that can be used by people of all abilities and is constantly seeking ways to incorporate this mindset into her work.
 <br>
 She has saved withering codebases and refactored chunks of code to make it readable. Her passion lies in developing robust systems, enabling easy maintenance of codebases, refactoring to avoid redundancies, and eliminating code smells and anti-patterns.
 <br>
@@ -31,7 +31,7 @@ She is passionate about improving working methods and increasing business speed 
 She is currently an ambassador for [Google WomenTechMaker(WTM) program](https://wtm.advocu.com/home/ambassadors/6373c8a7108c6b079a57f6de?communityslug=wtm), Drawify, Grammarly and Organizer of [GDG Burnaby](https://gdg.community.dev/gdg-burnaby/). 
 She uses her voice as a woman to bring representation in Product, User Experience, Neurodiversity and Tech across all these platforms.
 
-She uses her voice to talk about Parenthood, DEI, visual communication, overcoming burnout and imposter syndrome, strategic mentorship and Technology. She has spoken extensively in panels and conferences about topics and how to manage a career and parenthood and be a trailblazer.
+She uses her voice to talk about parenting, DEI, visual communication, overcoming burnout and imposter syndrome, strategic mentorship, and technology. She has spoken extensively in panels and conferences about how to manage a career and parenthood and be a trailblazer.
 
 Her goal is to play a part in the betterment of women’s careers, and the financial future is what drives her - putting more money into women’s pockets.
 
