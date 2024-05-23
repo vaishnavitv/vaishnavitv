@@ -20,7 +20,7 @@ Further, `2>` means that you are redirecting (i.e. >) the stderr (i.e. 2) into t
 </details>
 
 About me (in the third person) : 
-Passionate storyteller | Connector | Community Builder
+Passionate Storyteller | Code Wrangler | Community Builder
 
 Vaishnavi is not just a code wrangler but a creative problem solver, a software engineer passionate about working collaboratively and a champion for DEI, neurodiversity, and accessibility. She firmly believes that by breaking down silos and encouraging open communication, teams can achieve great things together. She understands the importance of creating empathetic products and services that can be used by people of all abilities and is constantly seeking ways to incorporate this mindset into her work.
 <br>
