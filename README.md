@@ -77,7 +77,7 @@ I have recently started making my README as a BRAG document after reading about 
 HTTP Status : 204 No Content
 
 ## :loudspeaker: Technical Presentations and Abstract Collection
-[Sessionize](https://sessionize.com/vaishnavi-subramaniam)
+[Sessionize](https://sessionize.com/vaishnavitv/)
 
 [Publications](https://github.com/vaishnavitv/Assets-and-Publications)
 
